@@ -1,5 +1,6 @@
 # sentiment_analysis-
 This Python script makes it easy to analyse sentiments in a CSV-file by simply adding 2 new columns with result. 
+
 Libraries used: Pandas and TextBlob 
 
 Input: 
